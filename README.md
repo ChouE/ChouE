@@ -28,4 +28,7 @@ Here are some ideas to get you started:
     <p align="center">
     <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ChouE&layout=compact" /></a>
     </p>
+    <p align="center">
+      <img src= "https://visitor-badge.glitch.me/badge?page_id=ChouE.ChouE" />
+  </p>
 </details>
