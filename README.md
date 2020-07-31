@@ -31,4 +31,6 @@ Here are some ideas to get you started:
     <p align="center">
       <img src= "https://visitor-badge.glitch.me/badge?page_id=ChouE.ChouE" />
   </p>
+  我以为我早想清楚，不由自主恍恍惚惚又走回头路 <br />
+  我一步一步一步一步，慢慢走向流沙
 </details>
