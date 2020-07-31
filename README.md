@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/ChouE/image-host/master/img/20200731185739.png)
 
-[![ChouE's github stats](https://github-readme-stats.vercel.app/api?username=ChouE&count_private=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ChouE&count_private=true&hide=stars&show_icons=true&theme=tokyonight" /></a>
+</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChouE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary> More things </summary>
+  <br>
+    <p align="center">
+    <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ChouE&layout=compact" /></a>
+    </p>
+</details>
