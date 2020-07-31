@@ -1,4 +1,4 @@
-###  👋
+###  👋Remember the time
 
 <!--
 **ChouE/ChouE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-Remember the time
 
+-->
+
+![](https://raw.githubusercontent.com/ChouE/image-host/master/img/20200731185739.png)
 
 [![ChouE's github stats](https://github-readme-stats.vercel.app/api?username=ChouE&count_private=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
