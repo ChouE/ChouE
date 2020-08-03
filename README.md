@@ -46,8 +46,17 @@ Here are some ideas to get you started:
 #### Console&Game
 [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://my.playstation.com/profile/Cowboy_be007)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/ChouEV/)
+<table>
+<tr>  
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+<!-- steam-box end -->
 
 
+</td>
+</tr>
+</table>
 <details>
   <summary> More things </summary>
   <br>
