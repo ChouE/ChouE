@@ -79,6 +79,5 @@ Here are some ideas to get you started:
 </details>
 <p align="center">
   <span></span>
-
 <a href="http://bgm.tv/user/chouev"><img src="http://bgm.tv/chart/img/367085" border="0" alt="ChouEV 的个人主页" /></a>
 </p>
