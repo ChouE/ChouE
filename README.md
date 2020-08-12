@@ -1,4 +1,4 @@
-###  👋Remember the time
+###  Remember the time
 
 <!--
 **ChouE/ChouE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -75,6 +75,9 @@ Here are some ideas to get you started:
     <p align="center">
       <img src= "https://visitor-badge.laobi.icu/badge?page_id=ChouE.ChouE" />
   </p>
-  我以为我早想清楚，不由自主恍恍惚惚又走回头路 <br />
-  我一步一步一步一步，慢慢走向流沙
+    
 </details>
+<p align="center">
+  <span></span>
+<a href="http://bgm.tv/user/chouev"><img src="http://bgm.tv/chart/img/367085" border="0" alt="ChouEV 的个人主页" /></a>
+</p>
