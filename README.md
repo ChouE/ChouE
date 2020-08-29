@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/ChouE/image-host/master/img/20200731185739.png)
 
 <p align="center">
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ChouE&count_private=true&hide=stars&show_icons=true&theme=tokyonight" /></a>
+  <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ChouE&count_private=true&hide=stars&show_icons=true&theme=tokyonight" /></a>
+  <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ChouE&layout=compact&theme=great-gatsby" /></a>
 </p>
 
 #### Platform&Tools
@@ -67,17 +68,14 @@ Here are some ideas to get you started:
 </tr>
 </table>
 <details>
-  <summary> More things </summary>
+  <summary> More</summary>
   <br>
-    <p align="center">
-    <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ChouE&layout=compact" /></a>
-    </p>
-    <p align="center">
+  <p align="center">
+  <a href="http://bgm.tv/user/chouev"><img src="http://bgm.tv/chart/img/367085" border="0" alt="ChouEV 的个人主页" /></a>
+  </p>
+  <p align="center">
       <img src= "https://visitor-badge.laobi.icu/badge?page_id=ChouE.ChouE" />
   </p>
-    
+   
 </details>
-<p align="center">
-  <span></span>
-<a href="http://bgm.tv/user/chouev"><img src="http://bgm.tv/chart/img/367085" border="0" alt="ChouEV 的个人主页" /></a>
-</p>
+
