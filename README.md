@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+<!--
+pic before
 ![](https://raw.githubusercontent.com/ChouE/image-host/master/img/20200731185739.png)
-
+-->
+![miku.jpg](https://img1.picloli-1.xyz/2020/08/31/Egq0hsqUYAEXKVS.jpg)
 <p align="center">
   <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ChouE&count_private=true&hide=stars&show_icons=true&theme=tokyonight" /></a>
   <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ChouE&layout=compact&theme=great-gatsby" /></a>
