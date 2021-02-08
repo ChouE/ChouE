@@ -59,7 +59,7 @@ pic before
 🎮 Warframe                         🕘 2000 hrs 26 mins
 💻 Wallpaper Engine                 🕘 1602 hrs 20 mins
 🎮 Monster Hunter: World            🕘 673 hrs 32 mins
-🎮 Shadowverse                      🕘 502 hrs 1 mins
+🎮 Shadowverse                      🕘 502 hrs 34 mins
 🎮 Slay the Spire                   🕘 334 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
