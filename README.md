@@ -2,6 +2,7 @@
 
 <!--
 **ChouE/ChouE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![quin](https://user-images.githubusercontent.com/32708657/113472962-0a617b80-9499-11eb-83d4-cf91692d6635.jpg)
 
 Here are some ideas to get you started:
 
@@ -19,7 +20,8 @@ Here are some ideas to get you started:
 pic before
 ![](https://raw.githubusercontent.com/ChouE/image-host/master/img/20200731185739.png)
 -->
-![albert.jpg](https://i0.hdslb.com/bfs/album/72c8c1895c1b6190566a0127627b0d761fe6c1b4.jpg)
+![1e64d39acb6e885048149743242e80c55721fd41](https://user-images.githubusercontent.com/32708657/113473044-b014ea80-9499-11eb-9ef6-2a4e97e0e502.jpg)
+
 <p align="center">
   <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ChouE&count_private=true&hide=stars&show_icons=true&theme=tokyonight" /></a>
   <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ChouE&layout=compact&theme=great-gatsby" /></a>
@@ -81,3 +83,4 @@ pic before
    
 </details>
 
+![Cyberpunk_2077](https://user-images.githubusercontent.com/32708657/113472986-45fc4580-9499-11eb-9b84-897c0c405553.png)
