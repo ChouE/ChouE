@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 pic before
 ![](https://raw.githubusercontent.com/ChouE/image-host/master/img/20200731185739.png)
 -->
-![miku.jpg](https://img1.picloli-1.xyz/2020/08/31/Egq0hsqUYAEXKVS.jpg)
+![albert.jpg](https://i0.hdslb.com/bfs/album/72c8c1895c1b6190566a0127627b0d761fe6c1b4.jpg)
 <p align="center">
   <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ChouE&count_private=true&hide=stars&show_icons=true&theme=tokyonight" /></a>
   <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ChouE&layout=compact&theme=great-gatsby" /></a>
