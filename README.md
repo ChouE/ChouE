@@ -62,7 +62,7 @@ pic before
 💻 Wallpaper Engine                 🕘 1714 hrs 6 mins
 🎮 Shadowverse                      🕘 899 hrs 52 mins
 🎮 Monster Hunter: World            🕘 842 hrs 28 mins
-🎮 Slay the Spire                   🕘 334 hrs 40 mins
+🎮 Slay the Spire                   🕘 339 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
