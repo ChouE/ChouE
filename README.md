@@ -62,7 +62,7 @@ pic before
 🎮 Warframe                         🕘 2010 hrs 13 mins
 🎮 Shadowverse                      🕘 1301 hrs 30 mins
 🎮 Monster Hunter: World            🕘 862 hrs 30 mins
-🎮 Slay the Spire                   🕘 345 hrs 12 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 345 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
