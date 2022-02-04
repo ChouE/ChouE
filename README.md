@@ -60,7 +60,7 @@ pic before
 ```text
 💻 Wallpaper Engine                 🕘 2329 hrs 11 mins
 🎮 Warframe                         🕘 2282 hrs 36 mins
-🎮 Shadowverse                      🕘 1321 hrs 37 mins
+🎮 Shadowverse                      🕘 1324 hrs 50 mins
 🎮 Monster Hunter: World            🕘 862 hrs 30 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 358 hrs 35 mins
 ```
