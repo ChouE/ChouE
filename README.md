@@ -58,7 +58,7 @@ pic before
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0a985047569357a087b483c5a36b60dc" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Warframe                         🕘 2662 hrs 9 mins
+🎮 Warframe                         🕘 2665 hrs 18 mins
 💻 Wallpaper Engine                 🕘 2461 hrs 15 mins
 🎮 Shadowverse                      🕘 1354 hrs 49 mins
 🎮 Monster Hunter: World            🕘 862 hrs 30 mins
