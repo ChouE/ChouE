@@ -62,7 +62,7 @@ pic before
 💻 Wallpaper Engine                 🕘 2787 hrs 34 mins
 🎮 Shadowverse                      🕘 1418 hrs 33 mins
 🎮 Monster Hunter: World            🕘 862 hrs 30 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 408 hrs 56 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 409 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
