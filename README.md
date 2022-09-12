@@ -62,7 +62,7 @@ pic before
 🎮 Warframe                         🕘 2877 hrs 16 mins
 🎮 Shadowverse                      🕘 1568 hrs 15 mins
 🎮 Monster Hunter: World            🕘 862 hrs 30 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 572 hrs 2 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 572 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
