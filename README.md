@@ -62,7 +62,7 @@ pic before
 🎮 Warframe                         🕘 3330 hrs 15 mins
 🎮 Shadowverse                      🕘 2299 hrs 42 mins
 🎮 Monster Hunter: World            🕘 862 hrs 52 mins
-🎮 ShareX                           🕘 676 hrs 29 mins
+🎮 ShareX                           🕘 678 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
