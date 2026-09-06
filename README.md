@@ -22,10 +22,6 @@ pic before
 -->
 ![1e64d39acb6e885048149743242e80c55721fd41](https://user-images.githubusercontent.com/32708657/113473044-b014ea80-9499-11eb-9ef6-2a4e97e0e502.jpg)
 
-<p align="center">
-  <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ChouE&count_private=true&hide=stars&show_icons=true&theme=tokyonight" /></a>
-  <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ChouE&layout=compact&theme=great-gatsby" /></a>
-</p>
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
